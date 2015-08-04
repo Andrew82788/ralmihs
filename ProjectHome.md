@@ -1,0 +1,1 @@
+Ralmihs is an online, text-based RPG.  It is inspired by Shimlar, which sadly, is no longer on the web today.  Ralmihs, however, will be open-source and compatible with all web browsers and operating systems.
